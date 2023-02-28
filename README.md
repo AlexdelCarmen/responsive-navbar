@@ -10,7 +10,7 @@ A responsive navbar component, it will hide menu items on smaller screens, showi
 
 ## Installation
 
-1. Clone the repository `git clone https://github.com/`
+1. Clone the repository `https://github.com/AlexdelCarmen/responsive-navbar`
 2. Open index.html on your browser.
 
 ## Features
@@ -30,4 +30,6 @@ This project is released under the Unlicense.  See LICENSE file [License](./LICE
 
 ## Credits
 
-Inspiered on the projects by John Smilga from [this video](https://youtu.be/3PHXvlpOkf4)
+- Inspired on the projects by John Smilga from [this video](https://youtu.be/3PHXvlpOkf4)
+
+- Coded by [Alejandro Borges](https://github.com/AlexdelCarmen)
