@@ -1,7 +1,7 @@
 const hamburgerIcon = document.getElementById("hamburger-icon");
 
-const responsiveNavbar = document.getElementById("responsive-navbar");
+const navbar = document.getElementById("navbar");
 
-hamburgerIcon.addEventListener("click", () => {
-    responsiveNavbar.classList.toggle("invisible"); 
-});
+hamburgerIcon.addEventListener("click", ()=> {
+    navbar.classList.toggle("hide");
+})
